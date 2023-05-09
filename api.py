@@ -8,7 +8,7 @@ payload = json.dumps({
 "sender": "Your sender name",
 "gamme": 1,
 "message": "Cest un message test PYTHON", #remplacez par votre message
- "webhookUrl": "https://webhook.site/TOKEN" #remplacez TOKEN par votre token webhook.site
+ "webhookUrl": "https://webhook.site/TOKEN" #remplacez TOKEN par votre token webhook.site **cette ligne est optionnel**
 })
 
 headers = {
